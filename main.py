@@ -150,6 +150,7 @@ if __name__ == "__main__":
     db = load_chroma_collection(path=db_path, name=collection_name)
 
     # Ask your question
-    question = "Những đối tượng áp dụng cho quy định của luật phòng cháy chữa cháy ?"
+    question = "Những đối tượng áp dụng cho quy định của luật phòng cháy chữa cháy hả?"
     answer, docs, metadatas = generate_answer_with_source(db, query=question)
+    
     print("\n>> Gemini Answer:\n", answer)
