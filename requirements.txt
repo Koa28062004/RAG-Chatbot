@@ -1,10 +1,8 @@
-ctransformers
-transformers
+google-generativeai
+chromadb
 langchain
 langchain-community
-torch
-pypdf
-sentence-transformers
-gpt4all
-openai
-chromadb
+langchain-text-splitters
+tqdm
+python-dotenv
+streamlit

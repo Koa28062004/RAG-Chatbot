@@ -8,6 +8,9 @@ from langchain_text_splitters import RecursiveCharacterTextSplitter
 from chromadb import Documents, EmbeddingFunction, Embeddings
 from pathlib import Path
 from tqdm import tqdm
+from dotenv import load_dotenv
+
+load_dotenv()
 
 # Set your Gemini API Key
 os.environ["GEMINI_API_KEY"] = "AIzaSyBdy0GGjeUvFKV8GB09kNFbzAVkZK5BQE4"  # Replace with your key

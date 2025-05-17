@@ -1,0 +1,9 @@
+venv/
+data/
+data-test/
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+data-test-2/
+data-test-3/
