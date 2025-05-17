@@ -13,7 +13,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # Set your Gemini API Key
-os.environ["GEMINI_API_KEY"] = "AIzaSyBdy0GGjeUvFKV8GB09kNFbzAVkZK5BQE4"  # Replace with your key
+os.environ["GEMINI_API_KEY"] = os.getenv("GEMINI_API_KEY")
 
 # Load PDF with LangChain's PyPDFLoader
 def load_pdfs_from_folder(folder_path: str) -> List:
