@@ -1,0 +1,11 @@
+Bảng G.8 - Số lượng người tối đa trên 1 m chiều rộng của lối ra thoát nạn từ hành lang của nhà sản xuất
+
+| Hạng của gian phòng có nguy hiểm cháy cao nhất có lối ra thoát nạn đi vào hành lang   | Bậc chịu lửa của nhà   | Cấp nguy hiểm cháy kết cấu của nhà   |   Số lượng người tối đa trên 1 m chiều rộng của lối ra thoát nạn từ hành lang, người |
+|---------------------------------------------------------------------------------------|------------------------|--------------------------------------|--------------------------------------------------------------------------------------|
+| A, B                                                                                  | I, II, III, IV         | S0                                   |                                                                                   85 |
+| C1, C2, C3                                                                            | I, II, III, IV         | S0                                   |                                                                                  173 |
+| C1, C2, C3                                                                            | IV                     | S1                                   |                                                                                  120 |
+| C1, C2, C3                                                                            | Không quy định         | S2, S3                               |                                                                                   85 |
+| C4, D, E                                                                              | I, II, III, IV         | S0                                   |                                                                                  260 |
+| C4, D, E                                                                              | IV                     | S1                                   |                                                                                  180 |
+| C4, D, E                                                                              | Không quy định         | S2, S3                               |                                                                                  130 |

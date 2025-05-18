@@ -1,0 +1,6 @@
+## Bảng B4. Quy định nội dung kiểm tra hàng năm
+
+|   STT | Nội dung kiểm tra                                                      | Phương pháp kiểm tra   | Kết quả kiểm tra cho phép vận hành                                                                                                                           |
+|-------|------------------------------------------------------------------------|------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|     1 | Các mối ghép dạng trục xoay (cơ cấu liên động, nút bẩm, trục tay quay) | Trực tiếp              | Vặn chặt tất cả các bu lông hoặc cơ cấu bắt chặt phòng nổ, kiểm tra khe hở mối ghép phòng nổ theo chu vi của mối ghép, khe hở phải đảm bảo yêu cầu kỹ thuật. |
+|     2 | Các mối ghép của phần tử xuyên sáng, tín hiệu.                         | Trực tiếp              | Kiểm tra khe hở mối ghép phòng nổ theo chu vi của mối ghép, khe hở phải đảm                                                                                  |

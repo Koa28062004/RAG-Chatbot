@@ -1,0 +1,8 @@
+Bảng 9 - Đặc tính của bình chứa khí FK-5-1-12 loại 34,5 bar
+
+| Tính chất                                                                 | Đơn vị                                                                    | Giá trị                                                                   |
+|---------------------------------------------------------------------------|---------------------------------------------------------------------------|---------------------------------------------------------------------------|
+| Mật độ nạp tối đa                                                         | kg/m 3                                                                    | 1 200                                                                     |
+| Áp suất làm việc lớn nhất của bình chứa tại 50 °C                         | bar (tuyệt đối)                                                           | 38                                                                        |
+| Áp suất nén cực đại tại 20 °C                                             | bar (tuyệt đối)                                                           | 34,5                                                                      |
+| CHÚ THÍCH: Xem Hình 2 để có thêm dữ liệu về mối quan hệ áp suất/nhiệt độ. | CHÚ THÍCH: Xem Hình 2 để có thêm dữ liệu về mối quan hệ áp suất/nhiệt độ. | CHÚ THÍCH: Xem Hình 2 để có thêm dữ liệu về mối quan hệ áp suất/nhiệt độ. |

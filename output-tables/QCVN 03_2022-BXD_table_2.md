@@ -1,0 +1,1 @@
+|     4 | Không nhỏ hơn 100 năm                              | Nhà và công trình độc đáo, có giá trị kiến trúc hoặc mang ý nghĩa biểu tượng quan trọng (Bảo tàng quốc gia, nhà lưu giữ hiện vật quốc gia, sân vận động thi đấu cấp quốc gia hoặc quốc tế, nhà hát quốc gia, công trình điểm nhấn có kiến trúc độc đáo tại các địa phương và các công trình tương tự). |

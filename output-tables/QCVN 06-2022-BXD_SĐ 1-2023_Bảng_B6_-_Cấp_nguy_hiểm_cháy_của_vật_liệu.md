@@ -1,0 +1,10 @@
+Bảng B.6 - Cấp nguy hiểm cháy của vật liệu
+
+| Đặc tính kỹ thuật về cháy của vật liệu   | Cấp nguy hiểm cháy của vật liệu   | Cấp nguy hiểm cháy của vật liệu   | Cấp nguy hiểm cháy của vật liệu   | Cấp nguy hiểm cháy của vật liệu   | Cấp nguy hiểm cháy của vật liệu   | Cấp nguy hiểm cháy của vật liệu   |
+|------------------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|
+| Đặc tính kỹ thuật về cháy của vật liệu   | CV0                               | CV1                               | CV2                               | CV3                               | CV4                               | CV5                               |
+| 1. Tính cháy                             | Không cháy                        | Ch1                               | Ch1                               | Ch2                               | Ch3                               | Ch4                               |
+| 2. Tính bắt cháy                         | -                                 | BC1                               | BC2                               | BC2                               | BC2                               | BC3                               |
+| 3. Khả năng sinh khói                    | -                                 | SK2                               | SK2                               | SK3                               | SK3                               | SK3                               |
+| 4. Độc tính của sản phẩm cháy            | -                                 | ĐT2                               | ĐT2                               | ĐT2                               | ĐT3                               | ĐT4                               |
+| 5. Tính lan truyền lửa trên bề mặt       | -                                 | LT1                               | LT1                               | LT2                               | LT2                               | LT4                               |

@@ -1,0 +1,14 @@
+Bảng 1 - Giới hạn chịu lửa và loại cấu kiện xây dựng thực hiện chức năng bộ phận ngăn cháy, các loại bộ phận chèn bịt tương ứng với chúng và các khoang đệm ngăn cháy
+
+| Bộ phận ngăn cháy                                              |   Loại bộ phận ngăn cháy | Giới hạn chịu lửa của bộ phận ngăn cháy   |   Loại bộ phận chèn bịt lỗ mởcủa bộ phận ngăn cháy |   Loại khoang đệm ngăn cháy |
+|----------------------------------------------------------------|--------------------------|-------------------------------------------|----------------------------------------------------|-----------------------------|
+| 1. Tường ngăn cháy                                             |                        1 | RЕI 150                                   |                                                  1 |                           1 |
+| 1. Tường ngăn cháy                                             |                        2 | RЕI 45                                    |                                                  2 |                           2 |
+| 2. Vách ngăn cháy                                              |                        1 | ЕI 45                                     |                                                  2 |                           1 |
+| 2. Vách ngăn cháy                                              |                        2 | ЕI 15                                     |                                                  3 |                           2 |
+| 3. Vách ngăn cháy có diện tích kính lớn hơn 25% diện tích vách |                        1 | ЕIW 45 1)                                 |                                                  2 |                           1 |
+| 3. Vách ngăn cháy có diện tích kính lớn hơn 25% diện tích vách |                        2 | ЕIW 15 1)                                 |                                                  3 |                           2 |
+| 4. Sàn ngăn cháy                                               |                        1 | RЕI 150                                   |                                                  1 |                           1 |
+| 4. Sàn ngăn cháy                                               |                        2 | RЕI 60                                    |                                                  2 |                           1 |
+| 4. Sàn ngăn cháy                                               |                        3 | RЕI 45                                    |                                                  2 |                           1 |
+| 4. Sàn ngăn cháy                                               |                        4 | RЕI 15                                    |                                                  3 |                           2 |

@@ -1,0 +1,20 @@
+## Bảng 2.32: Quy định về quy mô tối thiểu của các công trình công cộng, dịch vụ
+
+| Loại công trình                                                                                 | Chỉ tiêu sử dụng công trình tối thiểu   | Chỉ tiêu sử dụng đất tối thiểu       | Bán kính phục vụ tối đa              |
+|-------------------------------------------------------------------------------------------------|-----------------------------------------|--------------------------------------|--------------------------------------|
+| 1. Giáo dục                                                                                     |                                         |                                      |                                      |
+| a. Trường, điểm trường mầm non - Vùng đồng bằng: - Vùng miền núi, vùng cao, vùng sâu, vùng xa:  | 50 chỗ/1 000 dân                        | 12 m 2 /chỗ                          | 1 km 2 km                            |
+| b. Trường, điểm trường tiểu học - Vùng đồng bằng: - Vùng miền núi, vùng cao, vùng sâu, vùng xa: | 65 chỗ/1 000 dân                        | 10 m 2 /chỗ                          | 1 km 2 km                            |
+| c. Trường trung học                                                                             | 55 chỗ/1 000 dân                        | 10 m 2 /chỗ                          |                                      |
+| 2. Y tế                                                                                         |                                         |                                      |                                      |
+| Trạm y tế xã - Không có vườn thuốc - Có vườn thuốc                                              | 1 trạm/xã                               | 500 m 2 /trạm 1 000 m 2 /trạm        |                                      |
+| 3. Văn hóa, thể thao công cộng (1)                                                              | 3. Văn hóa, thể thao công cộng (1)      |                                      |                                      |
+| a. Nhà văn hóa                                                                                  |                                         | 1 000 m 2 /công trình                |                                      |
+| b. Phòng truyền thống                                                                           |                                         | 200 m 2 /công trình                  |                                      |
+| c. Thư viện                                                                                     |                                         | 200 m 2 /công trình                  |                                      |
+| d. Hội trường                                                                                   |                                         | 100 chỗ/công trình                   |                                      |
+| e. Cụm công trình, sân bãi thể thao                                                             |                                         | 5 000 m 2 /cụm                       |                                      |
+| 4. Chợ, cửa hàng dịch vụ (2)                                                                    |                                         |                                      |                                      |
+| a. Chợ                                                                                          | 1 chợ/xã                                | 1 500 m 2                            |                                      |
+| b. Cửa hàng dịch vụ trung tâm                                                                   | 1 công trình/khu trung tâm              | 300 m 2                              |                                      |
+| 5. Điểm phục vụ bưu chính viễn thông                                                            | 5. Điểm phục vụ bưu chính viễn thông    | 5. Điểm phục vụ bưu chính viễn thông | 5. Điểm phục vụ bưu chính viễn thông |

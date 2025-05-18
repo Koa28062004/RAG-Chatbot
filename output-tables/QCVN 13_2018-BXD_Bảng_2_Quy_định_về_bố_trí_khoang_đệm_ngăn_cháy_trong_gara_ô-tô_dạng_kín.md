@@ -1,0 +1,7 @@
+Bảng 2. Quy định về bố trí khoang đệm ngăn cháy trong gara ô-tô dạng kín
+
+| Loại gara ô-tô   | Giới hạn chịu lửa của các kết cấu bao che (các vách ngăn cháy), phút, không nhỏ hơn   | Giới hạn chịu lửa của các kết cấu bao che (các vách ngăn cháy), phút, không nhỏ hơn   | Yêu cầu bố trí khoang đệm                                            |
+|------------------|---------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|----------------------------------------------------------------------|
+|                  | Tường                                                                                 | Cổng                                                                                  |                                                                      |
+| Ngầm             | El 90                                                                                 | El 60                                                                                 | Khoang đệm có độ sâu đảm bảo mở được cổng, nhưng không nhỏ hơn 1,5 m |
+| Trên mặt đất     | El 45                                                                                 | El 30                                                                                 | Không cần thiết                                                      |

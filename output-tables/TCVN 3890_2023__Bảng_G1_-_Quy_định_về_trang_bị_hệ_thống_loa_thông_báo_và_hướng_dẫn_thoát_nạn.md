@@ -1,0 +1,8 @@
+## Bảng G.1 - Quy định về trang bị hệ thống loa thông báo và hướng dẫn thoát nạn
+
+|   STT | Đối tượng                                                                                                                                                                                        | Quy mô                                                                |
+|-------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|
+|     1 | Nhà và công trình công cộng                                                                                                                                                                      | Cao trên 10 tầng hoặc có từ 2 tầng hầm trở lên                        |
+|     2 | Công trình công cộng tập trung đông người: Nhà hát, rạp chiếu phim, kinh doanh dịch vụ karaoke, vũ trường, quán bar, hộp đêm, bệnh viện, viện dưỡng lão và các công trình có công năng tương tự. | Từ 50 người trên 1 tầng trở lên                                       |
+|     3 | Gara ô tô, xe máy dạng kín (bao gồm cả gara độc lập và trong nhà có chức năng khác)                                                                                                              | Diện tích từ 18 000 m 2 trở lên                                       |
+|     4 | Nhà sản xuất, kho                                                                                                                                                                                | Diện tích từ 18 000 m 2 trở lên và có từ 50 người trên 1 tầng trở lên |

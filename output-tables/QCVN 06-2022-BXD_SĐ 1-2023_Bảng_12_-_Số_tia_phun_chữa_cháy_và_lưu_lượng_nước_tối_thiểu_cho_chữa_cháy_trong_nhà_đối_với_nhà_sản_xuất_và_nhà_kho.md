@@ -1,0 +1,15 @@
+Bảng 12 - Số tia phun chữa cháy và lưu lượng nước tối thiểu cho chữa cháy trong nhà đối với nhà sản xuất và nhà kho
+
+| Bậc chịu lửa của nhà   | Hạng nguy hiểm cháy và cháy nổ của nhà   | Cấp nguy hiểm cháy của kết cấu   | Số tia phun chữa cháy và lưu lượng nước tối thiểu, L/s, đối với 1 tia phun, cho chữa cháy trong nhà đối với nhà sản xuất và nhà kho có chiều cao PCCC đến 50 mvà theo khối tích, 1 000 m 3   | Số tia phun chữa cháy và lưu lượng nước tối thiểu, L/s, đối với 1 tia phun, cho chữa cháy trong nhà đối với nhà sản xuất và nhà kho có chiều cao PCCC đến 50 mvà theo khối tích, 1 000 m 3   |
+|------------------------|------------------------------------------|----------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Bậc chịu lửa của nhà   | Hạng nguy hiểm cháy và cháy nổ của nhà   | Cấp nguy hiểm cháy của kết cấu   | ≤ 150                                                                                                                                                                                        | > 150                                                                                                                                                                                        |
+| I, II                  | A, B, C                                  | S0, S1                           | 2 × 2,5                                                                                                                                                                                      | 3 × 2,5                                                                                                                                                                                      |
+| I, II                  | D, E                                     | Không quy định                   | 1 × 2,5                                                                                                                                                                                      | 1 × 2,5                                                                                                                                                                                      |
+| III   | A, B, C   | S0             | 2 × 2,5   | 3 × 2,5   |
+|       | D, E      | S0, S1         | 1 × 2,5   | 2 × 2,5   |
+| IV    | A, B      | S0             | 2 × 2,5   | 3 × 2,5   |
+|       | C         | S0, S1         | 2 × 2,5   | 2 × 5     |
+|       | C         | S2, S3         | 3 × 2,5   | 4 × 2,5   |
+|       | D, E      | S0, S1, S2, S3 | 1 × 2,5   | 2 × 2,5   |
+| V     | C         | Không quy định | 2 × 2,5   | 2 × 5     |
+|       | D, E      | Không quy định | 1 × 2,5   | 2 × 2,5   |

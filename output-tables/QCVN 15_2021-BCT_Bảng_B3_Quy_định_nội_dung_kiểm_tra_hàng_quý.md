@@ -1,0 +1,9 @@
+Bảng B3. Quy định nội dung kiểm tra hàng quý
+
+|   STT | Nội dung kiểm tra                                     | Phương pháp kiểm tra   | Kết quả kiểm tra cho phép vận hành                                                                                                     |
+|-------|-------------------------------------------------------|------------------------|----------------------------------------------------------------------------------------------------------------------------------------|
+|     1 | Mối ghép phòng nổ các nắp mở của khởi động từ         | Trực tiếp              | Vặn chặt tất cả các bu lông hoặc cơ cấu bắt chặt phòng nổ, kiểm tra khe hở mối ghép phòng nổ theo chu vi của mối                       |
+|     2 | Mối ghép phòng nổ các khoang đấu cáp của khởi động từ | Trực tiếp              | ghép, khe hở phải đảm bảo yêu cầu kỹ thuật.                                                                                            |
+|     3 | Các cổ cáp vào, ra mạch lực và mạch điều khiển        | Trực tiếp              | Vặn chặt tất cả các bu lông của cổ cáp và các cơ cấu chống trôi.                                                                       |
+|     4 | Hệ thống tiếp đất                                     | Trực tiếp              | - Kiểm tra củng cố hệ thống tiếp đất và đo điện trở tiếp đất. - Giá trị điện trở tiếp đất đảm bảo R tđ ≤ 2Ω, đo tại bất kỳ vị trí nào. |
+|     5 | Hệ thống bảo vệ                                       | Trực tiếp              | Kiểm tra hoạt động bảo vệ của các hệ thống bảo vệ của khởi động từ.                                                                    |

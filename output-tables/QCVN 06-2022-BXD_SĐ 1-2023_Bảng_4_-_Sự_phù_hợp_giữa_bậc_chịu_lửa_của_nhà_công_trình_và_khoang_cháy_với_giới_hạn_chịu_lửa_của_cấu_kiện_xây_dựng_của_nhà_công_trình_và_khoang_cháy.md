@@ -1,0 +1,11 @@
+Bảng 4 - Sự phù hợp giữa bậc chịu lửa của nhà, công trình và khoang cháy với giới hạn chịu lửa của cấu kiện xây dựng của nhà, công trình và khoang cháy
+
+| Bậc chịu lửa của nhà, công trình và khoang cháy   | Giới hạn chịu lửa của cấu kiện, không nhỏ hơn             | Giới hạn chịu lửa của cấu kiện, không nhỏ hơn   | Giới hạn chịu lửa của cấu kiện, không nhỏ hơn              | Giới hạn chịu lửa của cấu kiện, không nhỏ hơn   | Giới hạn chịu lửa của cấu kiện, không nhỏ hơn   |
+|---------------------------------------------------|-----------------------------------------------------------|-------------------------------------------------|------------------------------------------------------------|-------------------------------------------------|-------------------------------------------------|
+| Bậc chịu lửa của nhà, công trình và khoang cháy   | Tường chịu lực, cột chịu lực và các bộ phận chịu lực khác | Tường ngoài không chịu lực                      | Sàn tầng (bao gồm cả sàn tầng áp mái và sàn trên tầng hầm) | Kết cấu mái không có tầng áp mái                | Các cấu kiện xây dựng của buồng thang bộ        |
+|     |                |                |                | Tấm lợp (kể cả tấm lợp có lớp cách nhiệt)   | Giàn, dầm, xà gồ   | Tường trong    | Bản thang và chiếu thang   |
+| I   | R 120          | Е 30           | RЕI 60         | RЕ 30                                       | R 30               | RЕI 120        | R 60                       |
+| II  | R 90           | Е 15           | RЕI 45         | RЕ 15                                       | R 15               | RЕI 90         | R 60                       |
+| III | R 45           | Е 15           | RЕI 45         | RЕ 15                                       | R 15               | RЕI 60         | R 45                       |
+| IV  | R 15           | E 15           | RЕI 15         | RЕ 15                                       | R 15               | RЕI 45         | R 15                       |
+| V   | Không quy định | Không quy định | Không quy định | Không quy định                              | Không quy định     | Không quy định | Không quy định             |

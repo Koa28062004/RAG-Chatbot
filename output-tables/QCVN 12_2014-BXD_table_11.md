@@ -1,0 +1,3 @@
+| b) Bàn học                                                            |     |       | Ngang - 0,8               | 200                   | -                                                              |
+| 2.2 Phòng thí nghiệm, xét nghiệm                                      | 1   | II    | Ngang - 0,8               | 400-TX 300-TCK 150-KL | -                                                              |
+| 2.3 Phòng họa, vẽ kĩ thuật, thiết kế đồ án môn học, đồ án tốt nghiệp: | 1   | I     |                           |                       |                                                                |

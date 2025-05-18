@@ -1,0 +1,13 @@
+## Bảng F.4 - Dầm bê tông cốt thép ứng suất trước
+
+| a) Chiều dày trung bình của lớp bê tông bảo vệ cốt thép ứng suất trước (thanh, cáp)                                                                                     | 100 1)   |   85 1) |   65 1) |   50 1) |   40 |   25 |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|---------|---------|---------|------|------|
+| b) Chiều rộng tiết diện dầm                                                                                                                                             | 280      |     240 |     180 |     140 |  110 |   80 |
+| 2. Bê tông dùng cốt liệu gốc silic, có trát thạch cao dày 15 mmtrên lưới thép mảnh: a) Chiều dày trung bình của lớp bê tông bảo vệ cốt thép ứng suất trước (thanh, cáp) | 90 1)    |      75 |      50 |      40 |   30 |   15 |
+| b) Chiều rộng tiết diện dầm                                                                                                                                             | 250      |     210 |     170 |     110 |   85 |   70 |
+| 3. Bê tông dùng cốt liệu gốc silic có trát vermiculite/thạch cao 2) dày 15 mm: a) Chiều dày trung bình của lớp bê tông bảo vệ cốt thép ứng suất trước (thanh, cáp)      | 75 1)    |      60 |      45 |      30 |   25 |   15 |
+| b) Chiều rộng tiết diện dầm                                                                                                                                             | 170      |     145 |     125 |      85 |   60 |   60 |
+| 4. Bê tông dùng cốt liệu gốc silic có trát vermiculite/thạch cao 2) dày 25 mm: a) Chiều dày trung bình của lớp bê tông bảo vệ cốt thép ứng suất trước (thanh, cáp)      | 50       |      45 |      30 |      25 |   15 |   15 |
+| b) Chiều rộng tiết diện dầm                                                                                                                                             | 140      |     125 |      85 |      70 |   60 |   60 |
+| 5. Bê tông dùng cốt liệu nhẹ: a) Chiều dày trung bình của lớp bê tông bảo thép ứng suất trước (thanh, cáp)                                                              | 80       |      65 |      50 |      40 |   30 |   20 |
+| b) Chiều rộng tiết diện dầm                                                                                                                                             | 250      |     200 |     160 |     130 |  100 |   80 |

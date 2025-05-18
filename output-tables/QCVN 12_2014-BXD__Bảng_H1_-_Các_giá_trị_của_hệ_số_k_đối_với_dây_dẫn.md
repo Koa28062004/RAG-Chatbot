@@ -1,0 +1,10 @@
+## Bảng H.1 - Các giá trị của hệ số k đối với dây dẫn
+
+| Đặc tính/Điều kiện                      | Loại cách điện của dây dẫn   | Loại cách điện của dây dẫn   | Loại cách điện của dây dẫn   | Loại cách điện của dây dẫn   | Loại cách điện của dây dẫn   | Loại cách điện của dây dẫn    |
+|-----------------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|-------------------------------|
+| Đặc tính/Điều kiện                      | PVC Nhựa nhiệt dẻo           | PVC Nhựa nhiệt dẻo           | PVC Nhựa nhiệt dẻo 90 o C    | PVC Nhựa nhiệt dẻo 90 o C    | EPR XLPE Nhựa nhiệt cứng     | Cao su 60 o C Nhựa nhiệt cứng |
+| Tiết diện dây mm 2                      | ≤ 300                        | >300                         | ≤ 300                        | >300                         |                              |                               |
+| Nhiệt độ ban đầu o C                    | 70                           | 70                           | 90                           | 90                           | 90                           | 60                            |
+| Nhiệt độ cuối cùng o C                  | 160                          | 140                          | 160                          | 140                          | 250                          | 200                           |
+| 1. Dây đồng                             | 115                          | 103                          | 100                          | 86                           | 143                          | 141                           |
+| 2. Mối hàn thiếc trên dây dẫn bằng đồng | 115                          | -                            | -                            | -                            | -                            | -                             |

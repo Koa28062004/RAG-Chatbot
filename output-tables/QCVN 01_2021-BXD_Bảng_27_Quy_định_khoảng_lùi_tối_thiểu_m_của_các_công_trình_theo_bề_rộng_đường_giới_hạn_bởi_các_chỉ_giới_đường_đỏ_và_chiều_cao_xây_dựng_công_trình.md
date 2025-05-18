@@ -1,0 +1,8 @@
+Bảng 2.7: Quy định khoảng lùi tối thiểu (m) của các công trình theo bề rộng đường (giới hạn bởi các chỉ giới đường đỏ) và chiều cao xây dựng công trình
+
+| Bề rộng đường tiếp giáp với lô đất xây dựng công trình (m)   | Chiều cao xây dựng công trình (m)   | Chiều cao xây dựng công trình (m)   | Chiều cao xây dựng công trình (m)   | Chiều cao xây dựng công trình (m)   |
+|--------------------------------------------------------------|-------------------------------------|-------------------------------------|-------------------------------------|-------------------------------------|
+| Bề rộng đường tiếp giáp với lô đất xây dựng công trình (m)   | < 19                                | 19 ÷< 22                            | 22 ÷< 28                            | ≥ 28                                |
+| <19                                                          | 0                                   | 3                                   | 4                                   | 6                                   |
+| 19÷<22                                                       | 0                                   | 0                                   | 3                                   | 6                                   |
+| ≥22                                                          | 0                                   | 0                                   | 0                                   | 6                                   |

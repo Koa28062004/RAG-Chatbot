@@ -1,0 +1,8 @@
+Bảng G.6 - Số lượng người tối đa trên 1 m chiều rộng của đường thoát nạn  từ khán đài của các công trình thể thao, biểu diễn ngoài trời
+
+|         | Theo các cầu thang bộ của các lối đi chính của khán đài   | Theo các cầu thang bộ của các lối đi chính của khán đài   | Đi qua cửa ra từ các lối đi chính của khán đài   | Đi qua cửa ra từ các lối đi chính của khán đài   |
+|---------|-----------------------------------------------------------|-----------------------------------------------------------|--------------------------------------------------|--------------------------------------------------|
+|         | Đi xuống                                                  | Đi lên                                                    | Đi xuống                                         | Đi lên                                           |
+| I, II   | 600                                                       | 825                                                       | 620                                              | 1 230                                            |
+| III, IV | 420                                                       | 580                                                       | 435                                              | 860                                              |
+| V       | 300                                                       | 415                                                       | 310                                              | 615                                              |
