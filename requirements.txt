@@ -6,3 +6,5 @@ langchain-text-splitters
 tqdm
 python-dotenv
 streamlit
+docling
+PyMuPDF
