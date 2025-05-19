@@ -1,0 +1,45 @@
+Bảng 4.1 - Mật độ sét đánh theo địa danh hành chính lãnh thổ Việt Nam
+
+| Tỉnh, Thành phố      | Thành phố, Thị xã, Quận, Huyện                                                                                                                    | Mật độ sét đánh (số lần/km 2 /năm)   |
+|----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------|
+| 1. An Giang          | TP. Long Xuyên, TP. Châu Đốc, TX. Tân Châu, H. An Phú, H. Châu Phú, H. Châu Thành, H. Chợ Mới, H. Tân Phú, H. Thoại Sơn, H. Tri Tôn, H. Tịnh Biên | 13,7                                 |
+| 2. Bà Rịa - Vũng Tàu | TP. Vũng Tàu, TP. Bà Rịa, H. Côn Đảo, H. Long Điền, H. Đất Đỏ, H. Xuyên Mộc                                                                       | 8,2                                  |
+| 2. Bà Rịa - Vũng Tàu | H. Tân Thành, H. Châu Đức                                                                                                                         | 10,9                                 |
+| 3. Bắc Kạn           | TP. Bắc Kạn, H. Ba Bể, H. Bạch Thông, H. Chợ Mới, H. Na Rì, H. Ngân Sơn, H. Pắc Nặm                                                               | 8,2                                  |
+| 3. Bắc Kạn           | H. Chợ Đồn                                                                                                                                        | 10,9                                 |
+| 4. Bắc Giang         | TP. Bắc Giang, H. Hiệp Hoà, H. Lạng Giang, H. Lục Nam, H. Lục Ngạn, H. Sơn Động, H. Tân Yên, H. Việt Yên, H. Yên Dũng, H. Yên Thế                 | 8,2                                  |
+| 5. Bắc Ninh          | TP. Bắc Ninh, H. Gia Bình, H. Lương Tài, H. Quế Võ, H. Yên Phong                                                                                  | 8,2                                  |
+| 5. Bắc Ninh          | TP. Từ Sơn, H. Tiên Du, H. Thuận Thành                                                                                                            | 10,9                                 |
+| 6. Bạc Liêu          | TP. Bạc Liêu                                                                                                                                      | 10,9                                 |
+| 6. Bạc Liêu          | TX. Giá Rai, H. Đông Hải, H. Hồng Dân, H. Phước Long, H. Vĩnh Lợi, H. Hòa Bình                                                                    | 13,7                                 |
+| 7. Bến Tre           | TP. Bến Tre, H. Châu Thành, H. Chợ Lách, H. Giồng Trôm, H. Mỏ Cày Nam, H. Mỏ Cày Bắc                                                              | 13,7                                 |
+| 7. Bến Tre           | H. Thạnh Phú, H. Ba Tri, H. Bình Đại                                                                                                              | 10,9                                 |
+| 8. Bình Định         | TP.Quy Nhơn, H. Tuy Phước                                                                                                                         | 5,7                                  |
+| 8. Bình Định         | H. An Lão, TX. An Nhơn, H. Hoài Ân, TX. Hoài Nhơn, H. Phù Cát, H. Phù Mỹ, H. Tây Sơn, H. Vân Canh, H. Vĩnh Thạnh                                  | 8,2                                  |
+| 9. Bình Dương        | TP. Thủ Dầu Một, TP. Dĩ An, TX. Tân Uyên, TP. Thuận An, H. Bắc Tân Uyên                                                                           | 13,7                                 |
+| 9. Bình Dương        | TX. Bến Cát, H. Dầu Tiếng, H. Phú Giáo, H. Bàu Bàng                                                                                               | 14,9                                 |
+| 10. Bình Phước       | TP. Đồng Xoài, TX. Bình Long, H. Chơn Thành, H. Đồng Phú, H. Hớn Quản                                                                             | 14,9                                 |
+| 10. Bình Phước       | H. Bù Đốp, H. Bù Đăng, H. Lộc Ninh, TX. Phước Long, H. Bù Gia Mập                                                                                 | 13,7                                 |
+| 11. Bình Thuận       | TP. Phan Thiết, TX. La Gi, H. Hàm Tân, H. Hàm Thuận Bắc, H. Hàm Thuận Nam, H. Tánh Linh                                                           | 8,2                                  |
+| 11. Bình Thuận       | H. Đức Linh                                                                                                                                       | 10,9                                 |
+| 11. Bình Thuận       | H. Phú Quý                                                                                                                                        | 7,0                                  |
+| 11. Bình Thuận       | H. Bắc Bình                                                                                                                                       | 5,7                                  |
+| 11. Bình Thuận       | H. Tuy Phong                                                                                                                                      | 3,4                                  |
+| 12. Cà Mau           | TP. Cà Mau, H. U Minh, H. Thới Bình, H. Trần Văn                                                                                                  | 13,7                                 |
+|               | Thời, H. Cái Nước, H. Đầm Dơi, H. Phú Tân, H. Năm Căn, H. Ngọc Hiển                                                                                                           |      |
+| 13. Cao Bằng  | TP. Cao Bằng, H. Bảo Lạc, H. Bảo Lâm, H. Hà Quảng, H. Hạ Lang, H. Hòa An, H. Nguyên Bình, H. Phục Hoà, H. Quảng Uyên, H. Thạch An, H. Thông Nông, H. Trà Lĩnh, H. Trùng Khánh | 9,2  |
+| 14. Cần Thơ   | Q. Bình Thủy, Q. Cái Răng, Q. Ninh Kiều, Q. Ô Môn, H. Cờ Đỏ, H. Phong Điền, Q. Thốt Nốt, H. Vĩnh Thạnh, H. Thới Lai                                                           | 13,7 |
+| 15. Đà Nẵng   | Q. Cẩm Lệ, Q. Hải Châu, Q. Liên Chiểu, Q. Ngũ Hành Sơn, Q. Sơn Trà, Q. Thanh Khê, H. Hòa Vang                                                                                 | 8,2  |
+| 15. Đà Nẵng   | H. Hoàng Sa                                                                                                                                                                   | 7,0  |
+| 16. Đắk Lắk   | TP. Buôn Ma Thuột, TX. Buôn Hồ, H. Buôn Đôn, H. Ea Súp, H. Cư M'Gar, H. Ea H'Leo, H. Krông Búk, H. Krông Năng                                                                 | 13,7 |
+| 16. Đắk Lắk   | H. Krông Păk, H. Krông Ana, H. Lắk, H. Krông Bông, H. Ea Kar, H. Cư Kuin                                                                                                      | 10,9 |
+| 16. Đắk Lắk   | H. M'Đrắk                                                                                                                                                                     | 8,2  |
+| 17. Điện biên | TP. Điện Biên Phủ, H. Điện Biên, H. Điện Biên Đông                                                                                                                            | 8,2  |
+| 17. Điện biên | TX. Mường Lay, H. Mường Chà, H. Mường Nhé, H. Tủa Chùa, H. Tuần Giáo, H. Mường Ảng, H. Nậm Pồ                                                                                 | 10,9 |
+| 18. Đắk Nông  | TP. Gia Nghĩa, H. Krông Nô                                                                                                                                                    | 10,9 |
+| 18. Đắk Nông  | H. Đắk Mil, H. Đắk R' Lấp, H. Đắk Song, H. Cư Jút, H. Tuy Đức, H. Đắk Glong                                                                                                   | 13,7 |
+| 19. Đồng Nai  | TP. Biên Hòa, H. Long Thành, H. Nhơn Trạch, H. Vĩnh Cửu, H. Trảng Bom                                                                                                         | 13,7 |
+| 19. Đồng Nai  | TP. Long Khánh, H. Tân Phú, H. Định Quán, H. Thống Nhất                                                                                                                       | 10,9 |
+| 19. Đồng Nai  | H. Xuân Lộc, H. Cẩm Mỹ                                                                                                                                                        | 8,2  |
+| 20. Đồng Tháp | TP. Cao Lãnh, H. Lấp Vò, TP. Sa Đéc, H. Tân Hồng, H. Tam Nông, H. Tháp Mười, TX. Hồng Ngự, H. Cao Lãnh, H. Thanh Bình, H. Lai Vung, H. Châu Thành, H. Hồng Ngự                | 13,7 |
+| 21. Gia Lai   | TX. An Khê, H. Chư Păh, H. Ia Grai, H. Mang Yang, H. Đắc Đoa, H. Đắc Pơ, H. Kông Chro                                                                                         | 8,2  |

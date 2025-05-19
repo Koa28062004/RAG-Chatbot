@@ -145,6 +145,8 @@ def extract_images_and_caption_flexible(pdf_path, md_folder, image_save_dir):
     for i, image_path in enumerate(image_files):
         raw_caption = captions[i] if i < len(captions) else "No Caption"
         caption = extract_caption_text(raw_caption)
+        if not caption:
+            caption = f"No Caption"
         image_id = os.path.splitext(os.path.basename(image_path))[0]
         image_docs.append({
             "id": image_id,
@@ -204,6 +206,7 @@ def extract_tables_from_markdown(md_folder, output_folder, table_doc_path):
             for idx, (title, table_lines) in enumerate(tables):
                 safe_title = title if title else f"table_{idx+1}"
                 safe_title = re.sub(r'[^\w\s-]', '', safe_title).replace(' ', '_')
+                safe_title = safe_title[:50]  # Limit title length to 50 characters
                 output_file = os.path.join(output_folder, f"{os.path.splitext(filename)[0]}_{safe_title}.md")
 
                 with open(output_file, "w", encoding="utf-8") as out_f:

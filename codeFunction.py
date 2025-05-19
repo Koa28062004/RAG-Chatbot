@@ -8,10 +8,21 @@ from langchain.text_splitter import RecursiveCharacterTextSplitter
 import google.generativeai as genai
 from dotenv import load_dotenv
 from langchain.document_loaders import PyPDFLoader
+from sentence_transformers import SentenceTransformer
+import torch
 
 load_dotenv()
 
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
+
+# SentenceTransformer embedding function
+class SentenceTransformerEmbeddingFunction(EmbeddingFunction):
+    def __init__(self):
+        self.model = SentenceTransformer("truro7/vn-law-embedding", truncate_dim=128)
+
+    def __call__(self, inputs: List[str]) -> List[List[float]]:
+        embeddings = self.model.encode(inputs, convert_to_tensor=True)
+        return embeddings.tolist()
 
 # Gemini embedding function
 class GeminiEmbeddingFunction(EmbeddingFunction):
@@ -31,9 +42,12 @@ class GeminiEmbeddingFunction(EmbeddingFunction):
 # ChromaDB wrapper
 class ChromaDB:
     @staticmethod
-    def create_chroma_db(documents: List[dict], path: str, name: str, batch_size: int = 50):
+    def create_chroma_db(documents: List[dict], path: str, name: str, batch_size: int = 50, embedding_fn: str = "vn-law-embedding"):
         chroma_client = chromadb.PersistentClient(path=path)
-        embedding_fn = GeminiEmbeddingFunction()
+        if embedding_fn == "vn-law-embedding":
+            embedding_fn = SentenceTransformerEmbeddingFunction()
+        elif embedding_fn == "gemini":
+            embedding_fn = GeminiEmbeddingFunction()
 
         try:
             chroma_client.delete_collection(name)
@@ -52,9 +66,13 @@ class ChromaDB:
         return db
 
     @staticmethod
-    def load_chroma_collection(path: str, name: str):
+    def load_chroma_collection(path: str, name: str, embedding_fn: str = "vn-law-embedding"):
+        if embedding_fn == "vn-law-embedding":
+            embedding_fn = SentenceTransformerEmbeddingFunction()
+        elif embedding_fn == "gemini":
+            embedding_fn = GeminiEmbeddingFunction()
         chroma_client = chromadb.PersistentClient(path=path)
-        return chroma_client.get_collection(name=name, embedding_function=GeminiEmbeddingFunction())
+        return chroma_client.get_collection(name=name, embedding_function=embedding_fn)
 
 # Load markdown files for text content
 def load_text_documents(pdf_folder: str) -> List[dict]:
@@ -121,7 +139,7 @@ def generate_gemini_answer(prompt: str):
     return response.text
 
 
-def generate_answer_with_source(text_db, image_db, table_db, query, text_n_results=100, image_n_results=3, table_n_results=3):
+def generate_answer_with_source(text_db, image_db, table_db, query, text_n_results=10, image_n_results=3, table_n_results=3):
     text_res = text_db.query(query_texts=[query], n_results=text_n_results, include=["documents", "metadatas", "distances"])
     image_res = image_db.query(query_texts=[query], n_results=image_n_results, include=["documents", "metadatas", "distances"])
     table_res = table_db.query(query_texts=[query], n_results=table_n_results, include=["documents", "metadatas", "distances"])
@@ -176,4 +194,11 @@ def generate_answer_with_source(text_db, image_db, table_db, query, text_n_resul
         # for table in tables_res:
         #     answer += f"- Bảng: {table}\n"
 
-    return answer, images_res, tables_res, zip(text_doc, image_doc, table_doc), zip(text_metadata, image_metadata, table_metadata), zip(text_distances, image_distances, table_distances)
+    return (
+    answer,
+    images_res,
+    tables_res,
+    list(zip(text_doc, text_metadata, text_distances)),  # Convert zip to list
+    list(zip(image_doc, image_metadata, image_distances)),  # Convert zip to list
+    list(zip(table_doc, table_metadata, table_distances))  # Convert zip to list
+)

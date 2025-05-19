@@ -1,0 +1,3 @@
+| 21. Gia Lai   | H. Chư Prông, H. Chư Sê, TX. Ayun Pa, H. Chư Pưh                                                                                                                              | 13,7 |
+| 22. Hà Giang  | TP. Hà Giang, H. Bắc Mê, H. Bắc Quang, H. Quản Bạ, H. Vị Xuyên,                                                                                                               | 10,9 |
+| 22. Hà Giang  | H. Hoàng Su Phì, H. Mèo Vạc, H. Quang Bình, H. Xín Mần, H. Đồng Văn, H. Yên Minh                                                                                              | 8,2  |

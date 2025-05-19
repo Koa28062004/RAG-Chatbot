@@ -130,6 +130,491 @@
     "url": "output-tables/QCVN 05_2023-BTNMT_Bảng_3_Phương_pháp_quan_trắc_các_thông_số_trong_kh.md"
   },
   {
+    "id": "QCVN 02_2022-BXD_Bảng_41_-_Mật_độ_sét_đánh_theo_địa_danh_hành_chính",
+    "content": "1 - Mật độ sét đánh theo địa danh hành chính lãnh thổ Việt Nam",
+    "url": "output-tables/QCVN 02_2022-BXD_Bảng_41_-_Mật_độ_sét_đánh_theo_địa_danh_hành_chính.md"
+  },
+  {
+    "id": "QCVN 02_2022-BXD_table_2",
+    "content": "No Caption",
+    "url": "output-tables/QCVN 02_2022-BXD_table_2.md"
+  },
+  {
+    "id": "QCVN 02_2022-BXD_table_3",
+    "content": "No Caption",
+    "url": "output-tables/QCVN 02_2022-BXD_table_3.md"
+  },
+  {
+    "id": "QCVN 02_2022-BXD_Bảng_51_-_Phân_vùng_áp_lực_gió_vận_tốc_gió_theo_đị",
+    "content": "1 - Phân vùng áp lực gió, vận tốc gió theo địa danh hành chính",
+    "url": "output-tables/QCVN 02_2022-BXD_Bảng_51_-_Phân_vùng_áp_lực_gió_vận_tốc_gió_theo_đị.md"
+  },
+  {
+    "id": "QCVN 02_2022-BXD_table_5",
+    "content": "No Caption",
+    "url": "output-tables/QCVN 02_2022-BXD_table_5.md"
+  },
+  {
+    "id": "QCVN 02_2022-BXD__Bảng_52_-_Hệ_số_K_sT",
+    "content": "2 - Hệ số K s,T",
+    "url": "output-tables/QCVN 02_2022-BXD__Bảng_52_-_Hệ_số_K_sT.md"
+  },
+  {
+    "id": "QCVN 02_2022-BXD__Bảng_53_-_Hệ_số_K_mT__dùng_để_chuyển_đổi_từ_vận_t",
+    "content": "3 - Hệ số K m,T , dùng để chuyển đổi từ vận tốc gió 10 phút, 50 năm sang vận tốc gió 10 phút, T (năm)",
+    "url": "output-tables/QCVN 02_2022-BXD__Bảng_53_-_Hệ_số_K_mT__dùng_để_chuyển_đổi_từ_vận_t.md"
+  },
+  {
+    "id": "QCVN 02_2022-BXD_Bảng_61_-_Bảng_phân_vùng_động_đất_theo_đỉnh_gia_tố",
+    "content": "1 - Bảng phân vùng động đất theo đỉnh gia tốc nền tham chiếu theo địa danh hành chính (chu kỳ lặp 500 năm cho nền loại A), g = 9,81 m/s  (gia tốc trọng trường) 2",
+    "url": "output-tables/QCVN 02_2022-BXD_Bảng_61_-_Bảng_phân_vùng_động_đất_theo_đỉnh_gia_tố.md"
+  },
+  {
+    "id": "QCVN 02_2022-BXD_table_9",
+    "content": "No Caption",
+    "url": "output-tables/QCVN 02_2022-BXD_table_9.md"
+  },
+  {
+    "id": "QCVN 02_2022-BXD_table_10",
+    "content": "No Caption",
+    "url": "output-tables/QCVN 02_2022-BXD_table_10.md"
+  },
+  {
+    "id": "QCVN 02_2022-BXD_Bảng_62_-_Bảng_phân_vùng_động_đất_theo_phổ_phản_ứn",
+    "content": "2 - Bảng phân vùng động đất theo phổ phản ứng chu kỳ ngắn S  và chu kỳ dài S S 1 theo địa danh hành chính với chu kỳ lặp 2 500 năm cho nền loại B",
+    "url": "output-tables/QCVN 02_2022-BXD_Bảng_62_-_Bảng_phân_vùng_động_đất_theo_phổ_phản_ứn.md"
+  },
+  {
+    "id": "QCVN 02_2022-BXD_table_12",
+    "content": "No Caption",
+    "url": "output-tables/QCVN 02_2022-BXD_table_12.md"
+  },
+  {
+    "id": "QCVN 02_2022-BXD_Bảng_64_-_Phân_loại_tác_động_của_động_đất_theo_tha",
+    "content": "4 - Phân loại tác động của động đất theo thang MSK - 64 và chuyển đổi giữa đỉnh gia tốc nền tham chiếu và cường độ chấn động bề mặt 1)",
+    "url": "output-tables/QCVN 02_2022-BXD_Bảng_64_-_Phân_loại_tác_động_của_động_đất_theo_tha.md"
+  },
+  {
+    "id": "QCVN 02_2022-BXD__Bảng_A1_-_Tọa_độ_vị_trí_các_trạm_khí_tượng",
+    "content": "1 - Tọa độ vị trí các trạm khí tượng",
+    "url": "output-tables/QCVN 02_2022-BXD__Bảng_A1_-_Tọa_độ_vị_trí_các_trạm_khí_tượng.md"
+  },
+  {
+    "id": "QCVN 02_2022-BXD_Bảng_A2_-_Nhiệt_độ_không_khí_trung_bình_tháng_và_n",
+    "content": "2 - Nhiệt độ không khí trung bình tháng và năm (ºC)",
+    "url": "output-tables/QCVN 02_2022-BXD_Bảng_A2_-_Nhiệt_độ_không_khí_trung_bình_tháng_và_n.md"
+  },
+  {
+    "id": "QCVN 02_2022-BXD_Bảng_A3_-_Nhiệt_độ_không_khí_cao_nhất_trung_bình_t",
+    "content": "3 - Nhiệt độ không khí cao nhất trung bình tháng và năm (ºC)",
+    "url": "output-tables/QCVN 02_2022-BXD_Bảng_A3_-_Nhiệt_độ_không_khí_cao_nhất_trung_bình_t.md"
+  },
+  {
+    "id": "QCVN 02_2022-BXD_Bảng_A4_-_Nhiệt_độ_không_khí_thấp_nhất_trung_bình_",
+    "content": "4 - Nhiệt độ không khí thấp nhất trung bình tháng và năm (ºC)",
+    "url": "output-tables/QCVN 02_2022-BXD_Bảng_A4_-_Nhiệt_độ_không_khí_thấp_nhất_trung_bình_.md"
+  },
+  {
+    "id": "QCVN 02_2022-BXD_Bảng_A5_-_Nhiệt_độ_không_khí_cao_nhất_tuyệt_đối_th",
+    "content": "5 - Nhiệt độ không khí cao nhất tuyệt đối tháng và năm (ºC)",
+    "url": "output-tables/QCVN 02_2022-BXD_Bảng_A5_-_Nhiệt_độ_không_khí_cao_nhất_tuyệt_đối_th.md"
+  },
+  {
+    "id": "QCVN 02_2022-BXD_Bảng_A6_-_Nhiệt_độ_không_khí_cao_nhất_tuyệt_đối_th",
+    "content": "6 - Nhiệt độ không khí cao nhất tuyệt đối tháng và năm (C)",
+    "url": "output-tables/QCVN 02_2022-BXD_Bảng_A6_-_Nhiệt_độ_không_khí_cao_nhất_tuyệt_đối_th.md"
+  },
+  {
+    "id": "QCVN 02_2022-BXD_Bảng_A7_-_Nhiệt_độ_không_khí_cao_nhất_tuyệt_đối_th",
+    "content": "7 - Nhiệt độ không khí cao nhất tuyệt đối tháng và năm (ºC)",
+    "url": "output-tables/QCVN 02_2022-BXD_Bảng_A7_-_Nhiệt_độ_không_khí_cao_nhất_tuyệt_đối_th.md"
+  },
+  {
+    "id": "QCVN 02_2022-BXD_Bảng_A8_-_Nhiệt_độ_không_khí_cao_nhất_tuyệt_đối_th",
+    "content": "8 - Nhiệt độ không khí cao nhất tuyệt đối tháng và năm (ºC)",
+    "url": "output-tables/QCVN 02_2022-BXD_Bảng_A8_-_Nhiệt_độ_không_khí_cao_nhất_tuyệt_đối_th.md"
+  },
+  {
+    "id": "QCVN 02_2022-BXD_Bảng_A9_-_Độ_ẩm_tuyệt_đối_của_không_khí_trung_bình",
+    "content": "9 - Độ ẩm tuyệt đối của không khí trung bình tháng và năm (g/m ) 3",
+    "url": "output-tables/QCVN 02_2022-BXD_Bảng_A9_-_Độ_ẩm_tuyệt_đối_của_không_khí_trung_bình.md"
+  },
+  {
+    "id": "QCVN 02_2022-BXD_Bảng_A10_-_Độ_ẩm_tuyệt_đối_của_không_khí_trung_bìn",
+    "content": "10 - Độ ẩm tuyệt đối của không khí trung bình tháng và năm (%)",
+    "url": "output-tables/QCVN 02_2022-BXD_Bảng_A10_-_Độ_ẩm_tuyệt_đối_của_không_khí_trung_bìn.md"
+  },
+  {
+    "id": "QCVN 02_2022-BXD_Bảng_A11_-_Độ_ẩm_tuyệt_đối_của_không_khí_thấp_nhất",
+    "content": "11 - Độ ẩm tuyệt đối của không khí thấp nhất tháng và năm (%)",
+    "url": "output-tables/QCVN 02_2022-BXD_Bảng_A11_-_Độ_ẩm_tuyệt_đối_của_không_khí_thấp_nhất.md"
+  },
+  {
+    "id": "QCVN 02_2022-BXD_Bảng_A12_-_Độ_ẩm_tương_đối_của_không_khí_thấp_nhất",
+    "content": "12 - Độ ẩm tương đối của không khí thấp nhất tuyệt đối tháng và năm (%)",
+    "url": "output-tables/QCVN 02_2022-BXD_Bảng_A12_-_Độ_ẩm_tương_đối_của_không_khí_thấp_nhất.md"
+  },
+  {
+    "id": "QCVN 02_2022-BXD_Bảng_A13_-_Biến_trình_ngày_của_độ_ẩm_tương_đối_của",
+    "content": "13 - Biến trình ngày của độ ẩm tương đối của không khí (%)",
+    "url": "output-tables/QCVN 02_2022-BXD_Bảng_A13_-_Biến_trình_ngày_của_độ_ẩm_tương_đối_của.md"
+  },
+  {
+    "id": "QCVN 02_2022-BXD_Bảng_A14_-_Tần_suất_xuất_hiện_các_cấp_nhiệt_ẩm_",
+    "content": "14 - Tần suất xuất hiện các cấp nhiệt ẩm (‰)",
+    "url": "output-tables/QCVN 02_2022-BXD_Bảng_A14_-_Tần_suất_xuất_hiện_các_cấp_nhiệt_ẩm_.md"
+  },
+  {
+    "id": "QCVN 02_2022-BXD_Bảng_A15_-_Vận_tốc_gió_trung_bình_tháng_và_năm_ms",
+    "content": "15 - Vận tốc gió trung bình tháng và năm (m/s)",
+    "url": "output-tables/QCVN 02_2022-BXD_Bảng_A15_-_Vận_tốc_gió_trung_bình_tháng_và_năm_ms.md"
+  },
+  {
+    "id": "QCVN 02_2022-BXD_Bảng_A16_-_Tần_suất_Lặng_gió_PL___tần_suất_P___và_",
+    "content": "16 - Tần suất Lặng gió (PL, % ) tần suất (P, % ) và vận tốc gió (V, m/s ) trung bình theo 8 hướng",
+    "url": "output-tables/QCVN 02_2022-BXD_Bảng_A16_-_Tần_suất_Lặng_gió_PL___tần_suất_P___và_.md"
+  },
+  {
+    "id": "QCVN 02_2022-BXD_Bảng_A17_-_Độ_cao_H_và_góc_phương_vị_A_của_mặt_trờ",
+    "content": "17 - Độ cao (H) và góc phương vị (A) của mặt trời (độ)",
+    "url": "output-tables/QCVN 02_2022-BXD_Bảng_A17_-_Độ_cao_H_và_góc_phương_vị_A_của_mặt_trờ.md"
+  },
+  {
+    "id": "QCVN 02_2022-BXD_Bảng_A18_-_Tổng_xạ_trên_mặt_phẳng_Wm_ngày_2",
+    "content": "18 - Tổng xạ trên mặt phẳng (W/m /ngày) 2",
+    "url": "output-tables/QCVN 02_2022-BXD_Bảng_A18_-_Tổng_xạ_trên_mặt_phẳng_Wm_ngày_2.md"
+  },
+  {
+    "id": "QCVN 02_2022-BXD_Bảng_A19_-_Tán_xạ_trên_mặt_bằng_Wm_ngày_2",
+    "content": "19 - Tán xạ trên mặt bằng (W/m /ngày) 2",
+    "url": "output-tables/QCVN 02_2022-BXD_Bảng_A19_-_Tán_xạ_trên_mặt_bằng_Wm_ngày_2.md"
+  },
+  {
+    "id": "QCVN 02_2022-BXD_Bảng_A20_-_Cường_độ_trực_xạ_trên_mặt_đứng_8_hướng_",
+    "content": "20 - Cường độ trực xạ trên mặt đứng 8 hướng (W/m ) 2",
+    "url": "output-tables/QCVN 02_2022-BXD_Bảng_A20_-_Cường_độ_trực_xạ_trên_mặt_đứng_8_hướng_.md"
+  },
+  {
+    "id": "QCVN 02_2022-BXD_Bảng_A21_-_Cường_độ_tán_xạ_trên_mặt_đứng_8_hướng_W",
+    "content": "21 - Cường độ tán xạ trên mặt đứng 8 hướng (W/m ) 2",
+    "url": "output-tables/QCVN 02_2022-BXD_Bảng_A21_-_Cường_độ_tán_xạ_trên_mặt_đứng_8_hướng_W.md"
+  },
+  {
+    "id": "QCVN 02_2022-BXD_table_35",
+    "content": "No Caption",
+    "url": "output-tables/QCVN 02_2022-BXD_table_35.md"
+  },
+  {
+    "id": "QCVN 02_2022-BXD_table_36",
+    "content": "No Caption",
+    "url": "output-tables/QCVN 02_2022-BXD_table_36.md"
+  },
+  {
+    "id": "QCVN 02_2022-BXD_table_37",
+    "content": "No Caption",
+    "url": "output-tables/QCVN 02_2022-BXD_table_37.md"
+  },
+  {
+    "id": "QCVN 02_2022-BXD_table_38",
+    "content": "No Caption",
+    "url": "output-tables/QCVN 02_2022-BXD_table_38.md"
+  },
+  {
+    "id": "QCVN 02_2022-BXD_table_39",
+    "content": "No Caption",
+    "url": "output-tables/QCVN 02_2022-BXD_table_39.md"
+  },
+  {
+    "id": "QCVN 02_2022-BXD_table_40",
+    "content": "No Caption",
+    "url": "output-tables/QCVN 02_2022-BXD_table_40.md"
+  },
+  {
+    "id": "QCVN 02_2022-BXD_table_41",
+    "content": "No Caption",
+    "url": "output-tables/QCVN 02_2022-BXD_table_41.md"
+  },
+  {
+    "id": "QCVN 02_2022-BXD_table_42",
+    "content": "No Caption",
+    "url": "output-tables/QCVN 02_2022-BXD_table_42.md"
+  },
+  {
+    "id": "QCVN 02_2022-BXD_Bảng_A22_-_Tổng_số_giờ_nắng_trung_bình_tháng_và_nă",
+    "content": "22 - Tổng số giờ nắng trung bình tháng và năm (h)",
+    "url": "output-tables/QCVN 02_2022-BXD_Bảng_A22_-_Tổng_số_giờ_nắng_trung_bình_tháng_và_nă.md"
+  },
+  {
+    "id": "QCVN 02_2022-BXD_Bảng_A23_-_Biến_trình_ngày_của_số_giờ_nắng_h",
+    "content": "23 - Biến trình ngày của số giờ nắng (h)",
+    "url": "output-tables/QCVN 02_2022-BXD_Bảng_A23_-_Biến_trình_ngày_của_số_giờ_nắng_h.md"
+  },
+  {
+    "id": "QCVN 02_2022-BXD_table_45",
+    "content": "No Caption",
+    "url": "output-tables/QCVN 02_2022-BXD_table_45.md"
+  },
+  {
+    "id": "QCVN 02_2022-BXD_table_46",
+    "content": "No Caption",
+    "url": "output-tables/QCVN 02_2022-BXD_table_46.md"
+  },
+  {
+    "id": "QCVN 02_2022-BXD_table_47",
+    "content": "No Caption",
+    "url": "output-tables/QCVN 02_2022-BXD_table_47.md"
+  },
+  {
+    "id": "QCVN 02_2022-BXD_table_48",
+    "content": "No Caption",
+    "url": "output-tables/QCVN 02_2022-BXD_table_48.md"
+  },
+  {
+    "id": "QCVN 02_2022-BXD_table_49",
+    "content": "No Caption",
+    "url": "output-tables/QCVN 02_2022-BXD_table_49.md"
+  },
+  {
+    "id": "QCVN 02_2022-BXD_Bảng_A24_-_Độ_rọi_trên_mặt_phẳng_ngang_klx",
+    "content": "24 - Độ rọi trên mặt phẳng ngang (klx)",
+    "url": "output-tables/QCVN 02_2022-BXD_Bảng_A24_-_Độ_rọi_trên_mặt_phẳng_ngang_klx.md"
+  },
+  {
+    "id": "QCVN 02_2022-BXD_table_51",
+    "content": "No Caption",
+    "url": "output-tables/QCVN 02_2022-BXD_table_51.md"
+  },
+  {
+    "id": "QCVN 02_2022-BXD__Bảng_A25_-_Lượng_mưa_trung_bình_tháng_và_năm_mm",
+    "content": "25 - Lượng mưa trung bình tháng và năm (mm)",
+    "url": "output-tables/QCVN 02_2022-BXD__Bảng_A25_-_Lượng_mưa_trung_bình_tháng_và_năm_mm.md"
+  },
+  {
+    "id": "QCVN 02_2022-BXD_Bảng_A26_-_Lượng_mưa_ngày_lớn_nhất_mm",
+    "content": "26 - Lượng mưa ngày lớn nhất (mm)",
+    "url": "output-tables/QCVN 02_2022-BXD_Bảng_A26_-_Lượng_mưa_ngày_lớn_nhất_mm.md"
+  },
+  {
+    "id": "QCVN 02_2022-BXD_Bảng_A27_-_Lượng_mưa_lớn_nhất_trung_bình_thời_đoạn",
+    "content": "27 - Lượng mưa lớn nhất trung bình thời đoạn (mm)",
+    "url": "output-tables/QCVN 02_2022-BXD_Bảng_A27_-_Lượng_mưa_lớn_nhất_trung_bình_thời_đoạn.md"
+  },
+  {
+    "id": "QCVN 02_2022-BXD_Bảng_A28_-_Số_ngày_mưa_trung_bình_tháng_và_năm_ngà",
+    "content": "28 - Số ngày mưa trung bình tháng và năm (ngày)",
+    "url": "output-tables/QCVN 02_2022-BXD_Bảng_A28_-_Số_ngày_mưa_trung_bình_tháng_và_năm_ngà.md"
+  },
+  {
+    "id": "QCVN 02_2022-BXD_Bảng_A29_-_Số_ngày_mưa_trung_bình_theo_các_cấp_ngà",
+    "content": "29 - Số ngày mưa trung bình theo các cấp (ngày)",
+    "url": "output-tables/QCVN 02_2022-BXD_Bảng_A29_-_Số_ngày_mưa_trung_bình_theo_các_cấp_ngà.md"
+  },
+  {
+    "id": "QCVN 02_2022-BXD_Bảng_A30_-_Lượng_mưa_mm_tháng_và_năm_theo_các_suất",
+    "content": "30 - Lượng mưa (mm) tháng và năm theo các suất bảo đảm (%)",
+    "url": "output-tables/QCVN 02_2022-BXD_Bảng_A30_-_Lượng_mưa_mm_tháng_và_năm_theo_các_suất.md"
+  },
+  {
+    "id": "QCVN 02_2022-BXD_table_58",
+    "content": "No Caption",
+    "url": "output-tables/QCVN 02_2022-BXD_table_58.md"
+  },
+  {
+    "id": "QCVN 02_2022-BXD_table_59",
+    "content": "No Caption",
+    "url": "output-tables/QCVN 02_2022-BXD_table_59.md"
+  },
+  {
+    "id": "QCVN 02_2022-BXD_table_60",
+    "content": "No Caption",
+    "url": "output-tables/QCVN 02_2022-BXD_table_60.md"
+  },
+  {
+    "id": "QCVN 02_2022-BXD_table_61",
+    "content": "No Caption",
+    "url": "output-tables/QCVN 02_2022-BXD_table_61.md"
+  },
+  {
+    "id": "QCVN 02_2022-BXD_table_62",
+    "content": "No Caption",
+    "url": "output-tables/QCVN 02_2022-BXD_table_62.md"
+  },
+  {
+    "id": "QCVN 02_2022-BXD_table_63",
+    "content": "No Caption",
+    "url": "output-tables/QCVN 02_2022-BXD_table_63.md"
+  },
+  {
+    "id": "QCVN 02_2022-BXD_table_64",
+    "content": "No Caption",
+    "url": "output-tables/QCVN 02_2022-BXD_table_64.md"
+  },
+  {
+    "id": "QCVN 02_2022-BXD_table_65",
+    "content": "No Caption",
+    "url": "output-tables/QCVN 02_2022-BXD_table_65.md"
+  },
+  {
+    "id": "QCVN 02_2022-BXD_table_66",
+    "content": "No Caption",
+    "url": "output-tables/QCVN 02_2022-BXD_table_66.md"
+  },
+  {
+    "id": "QCVN 02_2022-BXD_table_67",
+    "content": "No Caption",
+    "url": "output-tables/QCVN 02_2022-BXD_table_67.md"
+  },
+  {
+    "id": "QCVN 02_2022-BXD_table_68",
+    "content": "No Caption",
+    "url": "output-tables/QCVN 02_2022-BXD_table_68.md"
+  },
+  {
+    "id": "QCVN 02_2022-BXD_table_69",
+    "content": "No Caption",
+    "url": "output-tables/QCVN 02_2022-BXD_table_69.md"
+  },
+  {
+    "id": "QCVN 02_2022-BXD_table_70",
+    "content": "No Caption",
+    "url": "output-tables/QCVN 02_2022-BXD_table_70.md"
+  },
+  {
+    "id": "QCVN 02_2022-BXD_table_71",
+    "content": "No Caption",
+    "url": "output-tables/QCVN 02_2022-BXD_table_71.md"
+  },
+  {
+    "id": "QCVN 02_2022-BXD_table_72",
+    "content": "No Caption",
+    "url": "output-tables/QCVN 02_2022-BXD_table_72.md"
+  },
+  {
+    "id": "QCVN 02_2022-BXD_table_73",
+    "content": "No Caption",
+    "url": "output-tables/QCVN 02_2022-BXD_table_73.md"
+  },
+  {
+    "id": "QCVN 02_2022-BXD_table_74",
+    "content": "No Caption",
+    "url": "output-tables/QCVN 02_2022-BXD_table_74.md"
+  },
+  {
+    "id": "QCVN 02_2022-BXD_table_75",
+    "content": "No Caption",
+    "url": "output-tables/QCVN 02_2022-BXD_table_75.md"
+  },
+  {
+    "id": "QCVN 02_2022-BXD_table_76",
+    "content": "No Caption",
+    "url": "output-tables/QCVN 02_2022-BXD_table_76.md"
+  },
+  {
+    "id": "QCVN 02_2022-BXD_table_77",
+    "content": "No Caption",
+    "url": "output-tables/QCVN 02_2022-BXD_table_77.md"
+  },
+  {
+    "id": "QCVN 02_2022-BXD_table_78",
+    "content": "No Caption",
+    "url": "output-tables/QCVN 02_2022-BXD_table_78.md"
+  },
+  {
+    "id": "QCVN 02_2022-BXD_table_79",
+    "content": "No Caption",
+    "url": "output-tables/QCVN 02_2022-BXD_table_79.md"
+  },
+  {
+    "id": "QCVN 02_2022-BXD_table_80",
+    "content": "No Caption",
+    "url": "output-tables/QCVN 02_2022-BXD_table_80.md"
+  },
+  {
+    "id": "QCVN 02_2022-BXD_table_81",
+    "content": "No Caption",
+    "url": "output-tables/QCVN 02_2022-BXD_table_81.md"
+  },
+  {
+    "id": "QCVN 02_2022-BXD_table_82",
+    "content": "No Caption",
+    "url": "output-tables/QCVN 02_2022-BXD_table_82.md"
+  },
+  {
+    "id": "QCVN 02_2022-BXD_Bảng_A31_-_Số_ngày_mưa_phùn_trung_bình_tháng_và_nă",
+    "content": "31 - Số ngày mưa phùn trung bình tháng và năm (ngày)",
+    "url": "output-tables/QCVN 02_2022-BXD_Bảng_A31_-_Số_ngày_mưa_phùn_trung_bình_tháng_và_nă.md"
+  },
+  {
+    "id": "QCVN 02_2022-BXD_Bảng_A32_-_Số_ngày_sương_mù_trung_bình_tháng_và_nă",
+    "content": "32 - Số ngày sương mù trung bình tháng và năm (ngày)",
+    "url": "output-tables/QCVN 02_2022-BXD_Bảng_A32_-_Số_ngày_sương_mù_trung_bình_tháng_và_nă.md"
+  },
+  {
+    "id": "QCVN 02_2022-BXD_Bảng_A33_-_Số_ngày_có_dông_trung_bình_tháng_và_năm",
+    "content": "33 - Số ngày có dông trung bình tháng và năm (ngày)",
+    "url": "output-tables/QCVN 02_2022-BXD_Bảng_A33_-_Số_ngày_có_dông_trung_bình_tháng_và_năm.md"
+  },
+  {
+    "id": "QCVN 02_2022-BXD_Bảng_A34_-_Lượng_mây_tổng_quan_trung_bình_tháng_và",
+    "content": "34 - Lượng mây tổng quan trung bình tháng và năm (ngày)",
+    "url": "output-tables/QCVN 02_2022-BXD_Bảng_A34_-_Lượng_mây_tổng_quan_trung_bình_tháng_và.md"
+  },
+  {
+    "id": "QCVN 02_2022-BXD_Bảng_A35_-_Lượng_mây_dưới_trung_bình_tháng_và_năm_",
+    "content": "35 - Lượng mây dưới trung bình tháng và năm (ngày)",
+    "url": "output-tables/QCVN 02_2022-BXD_Bảng_A35_-_Lượng_mây_dưới_trung_bình_tháng_và_năm_.md"
+  },
+  {
+    "id": "QCVN 02_2022-BXD_Bảng_B1_-_Tần_suất_bão_và_áp_thấp_nhiệt_đới_đổ_bộ_",
+    "content": "1 - Tần suất bão và áp thấp nhiệt đới đổ bộ vào các vùng bờ biển Việt Nam từ năm 1961 đến năm 2017",
+    "url": "output-tables/QCVN 02_2022-BXD_Bảng_B1_-_Tần_suất_bão_và_áp_thấp_nhiệt_đới_đổ_bộ_.md"
+  },
+  {
+    "id": "QCVN 02_2022-BXD_Bảng_B2_-_Cấp_gió_theo_thang_Bô-pho_Beaufort_và_ch",
+    "content": "2 - Cấp gió theo thang Bô-pho (Beaufort) và chiều cao sóng",
+    "url": "output-tables/QCVN 02_2022-BXD_Bảng_B2_-_Cấp_gió_theo_thang_Bô-pho_Beaufort_và_ch.md"
+  },
+  {
+    "id": "QCVN 02_2022-BXD_Bảng_B3_-_Thống_kê_các_cơn_bão_và_áp_thấp_nhiệt_đớ",
+    "content": "3 - Thống kê các cơn bão và áp thấp nhiệt đới đổ bộ vào các vùng bờ biển Việt Nam từ năm 1961 đến năm 2017",
+    "url": "output-tables/QCVN 02_2022-BXD_Bảng_B3_-_Thống_kê_các_cơn_bão_và_áp_thấp_nhiệt_đớ.md"
+  },
+  {
+    "id": "QCVN 02_2022-BXD_Bảng_B4_-_Phân_bố_các_lần_tố_lốc_một_số_năm_trên_t",
+    "content": "4 - Phân bố các lần tố lốc một số năm trên toàn quốc từ năm 1971 đến năm 2017",
+    "url": "output-tables/QCVN 02_2022-BXD_Bảng_B4_-_Phân_bố_các_lần_tố_lốc_một_số_năm_trên_t.md"
+  },
+  {
+    "id": "QCVN 02_2022-BXD_Bảng_B5_-_Thống_kê_các_trận_lũ_lịch_sử_từ_năm_1945",
+    "content": "5 - Thống kê các trận lũ lịch sử từ năm 1945 đến năm 2007",
+    "url": "output-tables/QCVN 02_2022-BXD_Bảng_B5_-_Thống_kê_các_trận_lũ_lịch_sử_từ_năm_1945.md"
+  },
+  {
+    "id": "QCVN 02_2022-BXD_Bảng_B6_-_Thống_kê_các_trận_lũ_quét_từ_năm_1958_đế",
+    "content": "6 - Thống kê các trận lũ quét từ năm 1958 đến năm 2017",
+    "url": "output-tables/QCVN 02_2022-BXD_Bảng_B6_-_Thống_kê_các_trận_lũ_quét_từ_năm_1958_đế.md"
+  },
+  {
+    "id": "QCVN 02_2022-BXD_table_94",
+    "content": "No Caption",
+    "url": "output-tables/QCVN 02_2022-BXD_table_94.md"
+  },
+  {
+    "id": "QCVN 02_2022-BXD_table_95",
+    "content": "No Caption",
+    "url": "output-tables/QCVN 02_2022-BXD_table_95.md"
+  },
+  {
+    "id": "QCVN 02_2022-BXD_table_96",
+    "content": "No Caption",
+    "url": "output-tables/QCVN 02_2022-BXD_table_96.md"
+  },
+  {
+    "id": "QCVN 02_2022-BXD_table_97",
+    "content": "No Caption",
+    "url": "output-tables/QCVN 02_2022-BXD_table_97.md"
+  },
+  {
     "id": "QCVN 06-2022-BXD_SĐ 1-2023_Bảng_1_-_Giới_hạn_chịu_lửa_và_loại_cấu_kiện_xây_dự",
     "content": "Giới hạn chịu lửa và loại cấu kiện xây dựng thực hiện chức năng bộ phận ngăn cháy, các loại bộ phận chèn bịt tương ứng với chúng và các khoang đệm ngăn cháy",
     "url": "output-tables/QCVN 06-2022-BXD_SĐ 1-2023_Bảng_1_-_Giới_hạn_chịu_lửa_và_loại_cấu_kiện_xây_dự.md"
