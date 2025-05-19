@@ -1,5 +1,5 @@
 # RAG-Chatbot
-
+0. Add the Gemini Key like .env.example
 1. Create the venv
 ```python
 python -m venv venv
