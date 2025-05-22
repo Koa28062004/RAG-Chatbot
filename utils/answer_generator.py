@@ -6,24 +6,32 @@ load_dotenv()
 
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 
-def make_rag_prompt(query, context: str):
-    prompt = f"""Bạn là trợ lý ảo chăm sóc khách hàng. Dưới đây là một số đoạn văn bản liên quan. Vui lòng đọc kỹ và đưa ra câu trả lời cho câu hỏi sau một cách lịch sự, chu đáo và chính xác. 
+def make_rag_prompt(query: str, context_block: List[str], history: List[str]) -> str:
+    history_text = "\n".join(history[:-5]) if history else ""
+    context_block = "\n---\n".join(context_block)
 
-- Nếu bạn tìm thấy thông tin phù hợp, hãy trả lời đầy đủ, dễ hiểu và không tự suy diễn thêm ngoài những gì đã có.
-- Nếu không tìm thấy thông tin liên quan, hãy đề xuất khách hàng liên hệ với nhân viên tư vấn để được hỗ trợ thêm.
+    prompt = f"""
+    Bạn là một trợ lý ảo chăm sóc khách hàng.
 
-Câu trả lời cần được định dạng theo JSON như sau:
+    Lịch sử trò chuyện:
+    {history_text}
 
-{{
-"response": <nội dung câu trả lời>,
-"needAgent": <True nếu cần nhân viên hỗ trợ, False nếu đã đủ thông tin>
-}}
+    Nội dung tham khảo:
+    {context_block}
 
-Đoạn văn bản:
-{context}
+    Câu hỏi:
+    {query}
 
-Câu hỏi:
-{query}
+    Hãy trả lời một cách lịch sự, chu đáo và chính xác:
+    - Nếu khách hàng nói "tôi muốn gặp chuyên viên" hoặc tương tự, trả lời: "Tôi sẽ gửi yêu cầu của bạn đến chuyên viên chăm sóc khách hàng. Họ sẽ liên hệ với bạn trong thời gian sớm nhất."
+    - Nếu có thông tin phù hợp, trả lời đầy đủ và chính xác, không thêm suy diễn ngoài nội dung tham khảo.
+    - Nếu không tiềm thấy thông tin, đề nghị khách hàng liên hệ nhân viên tư vấn.
+
+    Vui lòng định dạng câu trả lời dưới dạng JSON:
+    {{
+        "response": "<Câu trả lời>",
+        "needAgent": <true/false>,
+    }}
 """
     return prompt
 
