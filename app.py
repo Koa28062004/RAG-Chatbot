@@ -1,5 +1,5 @@
 import streamlit as st
-from mainV2 import generate_answer_with_source, ChromaDB
+from utils import *
 import pandas as pd
 
 # Step 1: Add model selection
@@ -8,10 +8,10 @@ model_option = st.selectbox("Chọn mô hình embedding:", ["VN Law Embedding", 
 @st.cache_resource
 def load_db(model_choice):
     if model_choice == "Gemini Embedding":
-        chroma_path = "chroma_db_gemini"
+        chroma_path = "database/chroma_db_gemini"
         embedding_fn = "gemini"
     else:
-        chroma_path = "chroma_db_vn-law"
+        chroma_path = "database/chroma_db_vn-law"
         embedding_fn = "vn-law-embedding"
     
     text_db = ChromaDB.load_chroma_collection(chroma_path, name="text_docs", embedding_fn=embedding_fn)
@@ -67,7 +67,7 @@ if st.button("Gửi câu hỏi") and query:
     for i, (image_doc, image_metadata, image_distances) in enumerate(image_combined):
         if image_doc.strip():
             source = image_metadata.get("url", "Không rõ nguồn")
-            st.markdown(f"**[Image {i+1}] - nguồn:** {source} - sự khác biệt: {image_distances:.4f}")
+            st.markdown(f"**[Image {i+1}] - nguồn:** {source} - chú thích {image_doc} - sự khác biệt: {image_distances:.4f}")
             st.image(source, caption=f"Hình ảnh {i+1}", use_container_width=True)
             st.markdown("---")
 
@@ -75,7 +75,7 @@ if st.button("Gửi câu hỏi") and query:
     for i, (table_doc, table_metadata, table_distances) in enumerate(table_combined):
         if table_doc.strip():
             source = table_metadata.get("url", "Không rõ nguồn")
-            st.markdown(f"**[Table {i+1}] - nguồn:** {source} - sự khác biệt: {table_distances:.4f}")
+            st.markdown(f"**[Table {i+1}] - nguồn:** {source} - chú thích {table_doc} - sự khác biệt: {table_distances:.4f}")
             try:
                 if table_doc.endswith(".csv"):
                     df = pd.read_csv(table_doc)
